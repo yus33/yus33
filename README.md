@@ -19,12 +19,13 @@ My name is Yu! PHP was my first language, and I have the most experience with is
 
 📍 Based In Japan🇯🇵<br>
 
+# 🐈‍⬛ Github Status
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yus33&layout=compact&count_private=true&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yus33&count_private=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yus33&layout=compact&count_private=true&show_icons=true&include_all_commits=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yus33&count_private=true&include_all_commits=true" />
 </p>
 
-<h3 align="left">💻 Tech Stack</h3>
+# 💻 Tech Stack
 <p align="left">
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/>
@@ -55,7 +56,7 @@ My name is Yu! PHP was my first language, and I have the most experience with is
   </a>
 </p>
 
-<h3 align="left">🌱 Currently Learning</h3>
+# 🌱 Currently Learning
 <p align="left">
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="ruby" width="40" height="40"/>
