@@ -54,11 +54,17 @@ My name is Yu! PHP was my first language, and I have the most experience with is
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/>
   </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/>
+  </a>
 </p>
 
 # 🌱 Currently Learning
 <p align="left">
   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="ruby" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" alt="swift" width="40" height="40"/>
   </a>
 </p>
